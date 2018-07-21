@@ -6,9 +6,9 @@ java是一门编译语言，广泛应用于各大型项目中，在web网站开�
 
 ### java环境搭建
 
-jre:<br>
-jdk:<br>
-jvm:<br>
+jre:<br/>
+jdk:<br/>
+jvm:<br/>
 
 ```markdown
 Syntax highlighted code block
