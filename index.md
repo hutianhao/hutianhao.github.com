@@ -4,17 +4,20 @@ You can use the [editor on GitHub](https://github.com/hutianhao/hutianhao.github
 
 java是一门编译语言，广泛应用于各大型项目中，在web网站开发，后台管理系统开发以及金融服务业中都有着广泛的应用
 
-### Markdown
+### java环境搭建
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+jre:
+jdk:
+jvm:
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# java环境安装
+## java环境变量配置
+### 我的第一个java程序,从控制台中打印出“hello java!”
 
+```java虚拟机JVM
 - Bulleted
 - List
 
