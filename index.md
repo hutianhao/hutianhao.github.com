@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Java学习笔记
 
 You can use the [editor on GitHub](https://github.com/hutianhao/hutianhao.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+java是一门编译语言，广泛应用于各大型项目中，在web网站开发，后台管理系统开发以及金融服务业中都有着广泛的应用
 
 ### Markdown
 
