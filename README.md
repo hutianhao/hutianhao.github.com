@@ -1,4 +1,3 @@
-# hutianhao.github.com
 ### 关于图像风格迁移服务器接口的说明
 - url：	http://ai.jinmensuyin.com:15004/upload
 - 方法：	http  post
